@@ -13,3 +13,9 @@
 	font-size: 1.8rem !important;
 	letter-spacing: 0.1em;
 }
+
+@media (min-width: 992px) {
+	.offset-md-3 {
+	    margin-left: 25%;
+	}
+}
